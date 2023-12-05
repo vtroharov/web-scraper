@@ -1,0 +1,4283 @@
+11 seconds ago
+Search Adventurers
+
+
+Price: Low to High
+Place a collection bid
+
+Buy Now
+
+View details for AoV 248
+#8525
+Transcendence Level
+1
+Class
+Mischief
+Profession
+Scientist
+XP
+3
+HP
+100
+Strength
+5
+Dexterity
+5
+Constitution
+5
+Intelligence
+5
+Wisdom
+5
+Charisma
+5
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 4
+Days Until Trascend
+0
+Trait Total
+30
+AoV 248
+330
+Bid:
+259
+
+
+Buy Now
+
+View details for AoV 2164
+#3651
+Transcendence Level
+2
+Class
+Chaos
+Profession
+Explorer
+XP
+0
+HP
+102
+Strength
+6
+Dexterity
+6
+Constitution
+6
+Intelligence
+6
+Wisdom
+6
+Charisma
+6
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 43
+Days Until Trascend
+14
+Trait Total
+36
+AoV 2164
+373
+Bid:
+257.2
+Last:
+257.3
+
+
+Buy Now
+
+View details for AoV 720
+#8639
+Transcendence Level
+1
+Class
+Chaos
+Profession
+Scientist
+XP
+3
+HP
+105
+Strength
+6
+Dexterity
+5
+Constitution
+6
+Intelligence
+8
+Wisdom
+6
+Charisma
+7
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 1
+Days Until Trascend
+0
+Trait Total
+38
+AoV 720
+374
+Bid:
+257.2
+Last:
+258
+
+
+Buy Now
+
+View details for AoV 969
+#9247
+Transcendence Level
+1
+Class
+Tranquility
+Profession
+Explorer
+XP
+0
+HP
+100
+Strength
+5
+Dexterity
+5
+Constitution
+5
+Intelligence
+5
+Wisdom
+5
+Charisma
+5
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 6
+Days Until Trascend
+0
+Trait Total
+30
+AoV 969
+375
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 463
+#6906
+Transcendence Level
+2
+Class
+Tranquility
+Profession
+Zealot
+XP
+50
+HP
+102
+Strength
+3
+Dexterity
+9
+Constitution
+2
+Intelligence
+5
+Wisdom
+5
+Charisma
+12
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 13
+Days Until Trascend
+0
+Trait Total
+36
+AoV 463
+400
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 461
+#7750
+Transcendence Level
+2
+Class
+Chaos
+Profession
+Scientist
+XP
+54
+HP
+101
+Strength
+14
+Dexterity
+0
+Constitution
+13
+Intelligence
+0
+Wisdom
+0
+Charisma
+0
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 22
+Days Until Trascend
+0
+Trait Total
+27
+AoV 461
+400
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 462
+#5276
+Transcendence Level
+3
+Class
+Mischief
+Profession
+Zealot
+XP
+50
+HP
+100
+Strength
+9
+Dexterity
+4
+Constitution
+12
+Intelligence
+5
+Wisdom
+4
+Charisma
+2
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 36
+Days Until Trascend
+0
+Trait Total
+36
+AoV 462
+440
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 1929
+#8192
+Transcendence Level
+2
+Class
+Mischief
+Profession
+Zealot
+XP
+10
+HP
+105
+Strength
+8
+Dexterity
+3
+Constitution
+7
+Intelligence
+8
+Wisdom
+3
+Charisma
+3
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 4
+Days Until Trascend
+0
+Trait Total
+32
+AoV 1929
+450
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7441
+#8315
+Transcendence Level
+1
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+100
+Strength
+5
+Dexterity
+6
+Constitution
+4
+Intelligence
+6
+Wisdom
+5
+Charisma
+4
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 3
+Days Until Trascend
+0
+Trait Total
+30
+AoV 7441
+450
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5578
+#4299
+Transcendence Level
+5
+Class
+Chaos
+Profession
+Scientist
+XP
+0
+HP
+134
+Strength
+61
+Dexterity
+50
+Constitution
+47
+Intelligence
+45
+Wisdom
+44
+Charisma
+45
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 117
+Days Until Trascend
+0
+Trait Total
+292
+AoV 5578
+480
+Bid:
+330
+
+
+Buy Now
+
+View details for AoV 7994
+#2310
+Transcendence Level
+5
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+142
+Strength
+32
+Dexterity
+32
+Constitution
+31
+Intelligence
+31
+Wisdom
+31
+Charisma
+33
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 33
+Days Until Trascend
+14
+Trait Total
+190
+AoV 7994
+485
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 246
+#762
+Transcendence Level
+2
+Class
+Chaos
+Profession
+Zealot
+XP
+3
+HP
+100
+Strength
+5
+Dexterity
+5
+Constitution
+5
+Intelligence
+5
+Wisdom
+5
+Charisma
+5
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 139
+Days Until Trascend
+16
+Trait Total
+30
+AoV 246
+499
+Bid:
+257.2
+Last:
+349
+
+
+Buy Now
+
+View details for AoV 5562
+#7435
+Transcendence Level
+3
+Class
+Chaos
+Profession
+Scientist
+XP
+0
+HP
+108
+Strength
+5
+Dexterity
+4
+Constitution
+8
+Intelligence
+10
+Wisdom
+9
+Charisma
+9
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 132
+Days Until Trascend
+14
+Trait Total
+45
+AoV 5562
+500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2354
+#7286
+Transcendence Level
+5
+Class
+Chaos
+Profession
+Zealot
+XP
+58
+HP
+220
+Strength
+42
+Dexterity
+27
+Constitution
+23
+Intelligence
+21
+Wisdom
+48
+Charisma
+23
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 79
+Days Until Trascend
+0
+Trait Total
+184
+AoV 2354
+500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2353
+#3442
+Transcendence Level
+5
+Class
+Chaos
+Profession
+Zealot
+XP
+60
+HP
+219
+Strength
+42
+Dexterity
+27
+Constitution
+25
+Intelligence
+23
+Wisdom
+47
+Charisma
+22
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 54
+Days Until Trascend
+0
+Trait Total
+186
+AoV 2353
+500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2356
+#3365
+Transcendence Level
+4
+Class
+Tranquility
+Profession
+Zealot
+XP
+56
+HP
+217
+Strength
+39
+Dexterity
+27
+Constitution
+23
+Intelligence
+21
+Wisdom
+45
+Charisma
+23
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 60
+Days Until Trascend
+0
+Trait Total
+178
+AoV 2356
+500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2355
+#6216
+Transcendence Level
+5
+Class
+Mischief
+Profession
+Zealot
+XP
+56
+HP
+218
+Strength
+40
+Dexterity
+27
+Constitution
+23
+Intelligence
+21
+Wisdom
+46
+Charisma
+22
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 61
+Days Until Trascend
+0
+Trait Total
+179
+AoV 2355
+500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 933
+#5547
+Transcendence Level
+2
+Class
+Tranquility
+Profession
+Zealot
+XP
+33
+HP
+100
+Strength
+5
+Dexterity
+8
+Constitution
+10
+Intelligence
+10
+Wisdom
+5
+Charisma
+5
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 27
+Days Until Trascend
+0
+Trait Total
+43
+AoV 933
+555
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4878
+#8814
+Transcendence Level
+2
+Class
+Tranquility
+Profession
+Explorer
+XP
+0
+HP
+103
+Strength
+7
+Dexterity
+7
+Constitution
+7
+Intelligence
+8
+Wisdom
+8
+Charisma
+7
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 6
+Days Until Trascend
+0
+Trait Total
+44
+AoV 4878
+585
+Bid:
+257.2
+Last:
+300
+
+
+Buy Now
+
+View details for AoV 10057
+#5066
+Transcendence Level
+3
+Class
+Tranquility
+Profession
+Explorer
+XP
+0
+HP
+111
+Strength
+14
+Dexterity
+12
+Constitution
+11
+Intelligence
+16
+Wisdom
+11
+Charisma
+15
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 102
+Days Until Trascend
+4
+Trait Total
+79
+AoV 10057
+595
+Bid:
+257.2
+Last:
+232
+
+
+Buy Now
+
+View details for AoV 460
+#7388
+Transcendence Level
+3
+Class
+Chaos
+Profession
+Zealot
+XP
+59
+HP
+102
+Strength
+13
+Dexterity
+6
+Constitution
+3
+Intelligence
+7
+Wisdom
+7
+Charisma
+10
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 28
+Days Until Trascend
+0
+Trait Total
+46
+AoV 460
+600
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7547
+#4580
+Transcendence Level
+8
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+173
+Strength
+65
+Dexterity
+64
+Constitution
+68
+Intelligence
+38
+Wisdom
+41
+Charisma
+45
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 25
+Days Until Trascend
+2
+Trait Total
+321
+AoV 7547
+600
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7197
+#5525
+Transcendence Level
+4
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+125
+Strength
+20
+Dexterity
+16
+Constitution
+19
+Intelligence
+19
+Wisdom
+19
+Charisma
+17
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 27
+Days Until Trascend
+0
+Trait Total
+110
+AoV 7197
+605
+Bid:
+257.2
+Last:
+249
+
+
+Buy Now
+
+View details for AoV 7196
+#6985
+Transcendence Level
+4
+Class
+Mischief
+Profession
+Explorer
+XP
+0
+HP
+126
+Strength
+19
+Dexterity
+19
+Constitution
+19
+Intelligence
+18
+Wisdom
+18
+Charisma
+18
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 17
+Days Until Trascend
+0
+Trait Total
+111
+AoV 7196
+607
+Bid:
+257.2
+Last:
+249
+
+
+Buy Now
+
+View details for AoV 6782
+#7528
+Transcendence Level
+4
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+134
+Strength
+4
+Dexterity
+8
+Constitution
+48
+Intelligence
+48
+Wisdom
+50
+Charisma
+50
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 96
+Days Until Trascend
+0
+Trait Total
+208
+AoV 6782
+609
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 9358
+#6570
+Transcendence Level
+5
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+224
+Strength
+49
+Dexterity
+44
+Constitution
+48
+Intelligence
+55
+Wisdom
+49
+Charisma
+44
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 61
+Days Until Trascend
+0
+Trait Total
+289
+AoV 9358
+620
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2232
+#2325
+Transcendence Level
+3
+Class
+Chaos
+Profession
+Zealot
+XP
+42
+HP
+100
+Strength
+5
+Dexterity
+8
+Constitution
+28
+Intelligence
+5
+Wisdom
+3
+Charisma
+2
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 40
+Days Until Trascend
+0
+Trait Total
+51
+AoV 2232
+620
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7318
+#5970
+Transcendence Level
+5
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+138
+Strength
+65
+Dexterity
+32
+Constitution
+35
+Intelligence
+45
+Wisdom
+31
+Charisma
+29
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 138
+Days Until Trascend
+0
+Trait Total
+237
+AoV 7318
+620
+Bid:
+257.2
+Last:
+275
+
+
+Buy Now
+
+View details for AoV 8735
+#7237
+Transcendence Level
+6
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+126
+Strength
+23
+Dexterity
+26
+Constitution
+23
+Intelligence
+25
+Wisdom
+22
+Charisma
+25
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 141
+Days Until Trascend
+14
+Trait Total
+144
+AoV 8735
+630
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7125
+#7141
+Transcendence Level
+6
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+143
+Strength
+30
+Dexterity
+30
+Constitution
+29
+Intelligence
+28
+Wisdom
+35
+Charisma
+36
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 100
+Days Until Trascend
+14
+Trait Total
+188
+AoV 7125
+630
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 6221
+#7444
+Transcendence Level
+2
+Class
+Mischief
+Profession
+Explorer
+XP
+0
+HP
+100
+Strength
+5
+Dexterity
+5
+Constitution
+5
+Intelligence
+5
+Wisdom
+5
+Charisma
+11
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 12
+Days Until Trascend
+14
+Trait Total
+36
+AoV 6221
+640
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 9357
+#2636
+Transcendence Level
+5
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+224
+Strength
+46
+Dexterity
+46
+Constitution
+47
+Intelligence
+48
+Wisdom
+50
+Charisma
+47
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 108
+Days Until Trascend
+0
+Trait Total
+284
+AoV 9357
+650
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 9193
+#7421
+Transcendence Level
+4
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+109
+Strength
+15
+Dexterity
+9
+Constitution
+11
+Intelligence
+12
+Wisdom
+15
+Charisma
+21
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 19
+Days Until Trascend
+8
+Trait Total
+83
+AoV 9193
+650
+Bid:
+257.2
+Last:
+231.9
+
+
+Buy Now
+
+View details for AoV 8229
+#4116
+Transcendence Level
+7
+Class
+Tranquility
+Profession
+Scientist
+XP
+0
+HP
+156
+Strength
+56
+Dexterity
+51
+Constitution
+44
+Intelligence
+47
+Wisdom
+45
+Charisma
+42
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 143
+Days Until Trascend
+0
+Trait Total
+285
+AoV 8229
+685
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8137
+#2098
+Transcendence Level
+6
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+137
+Strength
+22
+Dexterity
+21
+Constitution
+18
+Intelligence
+17
+Wisdom
+18
+Charisma
+28
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 107
+Days Until Trascend
+8
+Trait Total
+124
+AoV 8137
+690
+Bid:
+257.2
+Last:
+270
+
+
+Buy Now
+
+View details for AoV 7388
+#1971
+Transcendence Level
+8
+Class
+Mischief
+Profession
+Scientist
+XP
+0
+HP
+206
+Strength
+40
+Dexterity
+51
+Constitution
+61
+Intelligence
+85
+Wisdom
+86
+Charisma
+46
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 37
+Days Until Trascend
+2
+Trait Total
+369
+AoV 7388
+700
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2469
+#4478
+Transcendence Level
+6
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+123
+Strength
+21
+Dexterity
+19
+Constitution
+18
+Intelligence
+20
+Wisdom
+18
+Charisma
+22
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 104
+Days Until Trascend
+8
+Trait Total
+118
+AoV 2469
+700
+Bid:
+257.2
+Last:
+270
+
+
+Buy Now
+
+View details for AoV 8253
+#3039
+Transcendence Level
+9
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+154
+Strength
+61
+Dexterity
+53
+Constitution
+47
+Intelligence
+65
+Wisdom
+63
+Charisma
+55
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 21
+Days Until Trascend
+0
+Trait Total
+344
+AoV 8253
+715
+Bid:
+500
+
+
+Buy Now
+
+View details for AoV 8781
+#3547
+Transcendence Level
+9
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+162
+Strength
+54
+Dexterity
+61
+Constitution
+54
+Intelligence
+58
+Wisdom
+66
+Charisma
+52
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 117
+Days Until Trascend
+0
+Trait Total
+345
+AoV 8781
+725
+Bid:
+500
+
+
+Buy Now
+
+View details for AoV 8544
+#7705
+Transcendence Level
+6
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+126
+Strength
+24
+Dexterity
+21
+Constitution
+18
+Intelligence
+20
+Wisdom
+22
+Charisma
+19
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 80
+Days Until Trascend
+8
+Trait Total
+124
+AoV 8544
+750
+Bid:
+257.2
+Last:
+270
+
+
+Buy Now
+
+View details for ﹃ DKB║AS-22 ﹄ #7062
+#5652
+Transcendence Level
+10
+Class
+Mischief
+Profession
+Scientist
+XP
+0
+HP
+213
+Strength
+61
+Dexterity
+70
+Constitution
+62
+Intelligence
+49
+Wisdom
+59
+Charisma
+63
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 67
+Days Until Trascend
+0
+Trait Total
+364
+﹃ DKB║AS-22 ﹄ #7062
+849
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7390
+#4410
+Transcendence Level
+10
+Class
+Chaos
+Profession
+Explorer
+XP
+0
+HP
+163
+Strength
+61
+Dexterity
+48
+Constitution
+48
+Intelligence
+47
+Wisdom
+44
+Charisma
+46
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 140
+Days Until Trascend
+0
+Trait Total
+294
+AoV 7390
+850
+Bid:
+555
+Last:
+155
+
+
+Buy Now
+
+View details for AoV 3459
+#5115
+Transcendence Level
+10
+Class
+Tranquility
+Profession
+Zealot
+XP
+71
+HP
+260
+Strength
+77
+Dexterity
+52
+Constitution
+55
+Intelligence
+63
+Wisdom
+79
+Charisma
+66
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 76
+Days Until Trascend
+0
+Trait Total
+392
+AoV 3459
+850
+Bid:
+604
+Last:
+120
+
+
+Buy Now
+
+View details for AoV 6869
+#5255
+Transcendence Level
+12
+Class
+Mischief
+Profession
+Scientist
+XP
+0
+HP
+188
+Strength
+68
+Dexterity
+63
+Constitution
+65
+Intelligence
+65
+Wisdom
+64
+Charisma
+63
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 67
+Days Until Trascend
+0
+Trait Total
+388
+AoV 6869
+869
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7146
+#6084
+Transcendence Level
+14
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+180
+Strength
+47
+Dexterity
+47
+Constitution
+56
+Intelligence
+103
+Wisdom
+48
+Charisma
+47
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 84
+Days Until Trascend
+16
+Trait Total
+348
+AoV 7146
+899
+Bid:
+666
+
+
+Buy Now
+
+View details for AoV 8459
+#5393
+Transcendence Level
+12
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+137
+Strength
+61
+Dexterity
+61
+Constitution
+59
+Intelligence
+58
+Wisdom
+58
+Charisma
+59
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 19
+Days Until Trascend
+3
+Trait Total
+356
+AoV 8459
+900
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8443
+#2792
+Transcendence Level
+13
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+142
+Strength
+56
+Dexterity
+58
+Constitution
+58
+Intelligence
+57
+Wisdom
+57
+Charisma
+55
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 82
+Days Until Trascend
+12
+Trait Total
+341
+AoV 8443
+900
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8460
+#2917
+Transcendence Level
+12
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+143
+Strength
+62
+Dexterity
+60
+Constitution
+58
+Intelligence
+59
+Wisdom
+59
+Charisma
+60
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 16
+Days Until Trascend
+3
+Trait Total
+358
+AoV 8460
+900
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8461
+#5077
+Transcendence Level
+12
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+147
+Strength
+61
+Dexterity
+59
+Constitution
+59
+Intelligence
+57
+Wisdom
+61
+Charisma
+59
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 9
+Days Until Trascend
+2
+Trait Total
+356
+AoV 8461
+900
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 3766
+#1923
+Transcendence Level
+14
+Class
+Tranquility
+Profession
+Explorer
+XP
+1
+HP
+204
+Strength
+78
+Dexterity
+74
+Constitution
+74
+Intelligence
+76
+Wisdom
+73
+Charisma
+75
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 60
+Days Until Trascend
+13
+Trait Total
+450
+AoV 3766
+969
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7161
+#3201
+Transcendence Level
+15
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+174
+Strength
+52
+Dexterity
+47
+Constitution
+45
+Intelligence
+42
+Wisdom
+52
+Charisma
+97
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 32
+Days Until Trascend
+0
+Trait Total
+335
+AoV 7161
+999
+Bid:
+257.2
+
+
+Buy Now
+
+View details for ﹃ DKB║AS-20 ﹄ #7059
+#2972
+Transcendence Level
+10
+Class
+Mischief
+Profession
+Scientist
+XP
+0
+HP
+197
+Strength
+70
+Dexterity
+76
+Constitution
+61
+Intelligence
+57
+Wisdom
+61
+Charisma
+63
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 62
+Days Until Trascend
+0
+Trait Total
+388
+﹃ DKB║AS-20 ﹄ #7059
+1,000
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5720
+#5487
+Transcendence Level
+4
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+110
+Strength
+39
+Dexterity
+38
+Constitution
+34
+Intelligence
+33
+Wisdom
+32
+Charisma
+39
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 18
+Days Until Trascend
+6
+Trait Total
+215
+AoV 5720
+1,070
+Bid:
+257.2
+Last:
+250
+
+
+Buy Now
+
+View details for AoV 2849
+#4380
+Transcendence Level
+10
+Class
+Chaos
+Profession
+Zealot
+XP
+64
+HP
+328
+Strength
+96
+Dexterity
+71
+Constitution
+77
+Intelligence
+77
+Wisdom
+78
+Charisma
+73
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 28
+Days Until Trascend
+0
+Trait Total
+472
+AoV 2849
+1,100
+Bid:
+257.2
+Last:
+0.104
+
+
+Buy Now
+
+View details for AoV 3348
+#406
+Transcendence Level
+10
+Class
+Tranquility
+Profession
+Zealot
+XP
+100
+HP
+341
+Strength
+88
+Dexterity
+76
+Constitution
+79
+Intelligence
+74
+Wisdom
+87
+Charisma
+68
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 107
+Days Until Trascend
+0
+Trait Total
+472
+AoV 3348
+1,100
+Bid:
+257.2
+Last:
+0.095
+
+
+Buy Now
+
+View details for AoV 4887
+#4050
+Transcendence Level
+10
+Class
+Mischief
+Profession
+Zealot
+XP
+32
+HP
+321
+Strength
+82
+Dexterity
+83
+Constitution
+76
+Intelligence
+73
+Wisdom
+82
+Charisma
+73
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 95
+Days Until Trascend
+0
+Trait Total
+469
+AoV 4887
+1,100
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5576
+#423
+Transcendence Level
+4
+Class
+Chaos
+Profession
+Explorer
+XP
+0
+HP
+104
+Strength
+17
+Dexterity
+6
+Constitution
+17
+Intelligence
+9
+Wisdom
+11
+Charisma
+14
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 53
+Days Until Trascend
+8
+Trait Total
+74
+AoV 5576
+1,120
+Bid:
+257.2
+Last:
+380
+
+
+Buy Now
+
+View details for AoV 4421
+#5496
+Transcendence Level
+10
+Class
+Mischief
+Profession
+Zealot
+XP
+42
+HP
+221
+Strength
+74
+Dexterity
+73
+Constitution
+73
+Intelligence
+72
+Wisdom
+74
+Charisma
+72
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 96
+Days Until Trascend
+0
+Trait Total
+438
+AoV 4421
+1,169
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2618
+#4988
+Transcendence Level
+10
+Class
+Chaos
+Profession
+Zealot
+XP
+95
+HP
+227
+Strength
+91
+Dexterity
+111
+Constitution
+83
+Intelligence
+67
+Wisdom
+57
+Charisma
+61
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 87
+Days Until Trascend
+0
+Trait Total
+470
+AoV 2618
+1,169
+Bid:
+555
+
+
+Buy Now
+
+View details for AoV 3308
+#257
+Transcendence Level
+17
+Class
+Tranquility
+Profession
+Explorer
+XP
+116
+HP
+327
+Strength
+91
+Dexterity
+82
+Constitution
+89
+Intelligence
+89
+Wisdom
+83
+Charisma
+88
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 107
+Days Until Trascend
+0
+Trait Total
+522
+AoV 3308
+1,195
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4376
+#2352
+Transcendence Level
+11
+Class
+Mischief
+Profession
+Zealot
+XP
+57
+HP
+213
+Strength
+81
+Dexterity
+70
+Constitution
+70
+Intelligence
+56
+Wisdom
+57
+Charisma
+51
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 36
+Days Until Trascend
+8
+Trait Total
+385
+AoV 4376
+1,200
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 1547
+#3061
+Transcendence Level
+11
+Class
+Mischief
+Profession
+Zealot
+XP
+94
+HP
+361
+Strength
+95
+Dexterity
+79
+Constitution
+80
+Intelligence
+88
+Wisdom
+86
+Charisma
+79
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 141
+Days Until Trascend
+4
+Trait Total
+507
+AoV 1547
+1,200
+Bid:
+257.2
+Last:
+0.079
+
+
+Buy Now
+
+View details for AoV 2573
+#1071
+Transcendence Level
+6
+Class
+Mischief
+Profession
+Scientist
+XP
+134
+HP
+342
+Strength
+67
+Dexterity
+88
+Constitution
+87
+Intelligence
+109
+Wisdom
+88
+Charisma
+97
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 62
+Days Until Trascend
+0
+Trait Total
+536
+AoV 2573
+1,222
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4779
+#2886
+Transcendence Level
+6
+Class
+Mischief
+Profession
+Zealot
+XP
+32
+HP
+180
+Strength
+69
+Dexterity
+50
+Constitution
+51
+Intelligence
+48
+Wisdom
+43
+Charisma
+44
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 20
+Days Until Trascend
+0
+Trait Total
+305
+AoV 4779
+1,240
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 6618
+#6556
+Transcendence Level
+10
+Class
+Chaos
+Profession
+Scientist
+XP
+0
+HP
+129
+Strength
+57
+Dexterity
+48
+Constitution
+65
+Intelligence
+44
+Wisdom
+52
+Charisma
+76
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 84
+Days Until Trascend
+0
+Trait Total
+342
+AoV 6618
+1,250
+Bid:
+257.2
+Last:
+0.025
+
+
+Buy Now
+
+View details for AoV 4646
+#1120
+Transcendence Level
+13
+Class
+Mischief
+Profession
+Scientist
+XP
+43
+HP
+322
+Strength
+67
+Dexterity
+52
+Constitution
+79
+Intelligence
+95
+Wisdom
+54
+Charisma
+150
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 48
+Days Until Trascend
+0
+Trait Total
+497
+AoV 4646
+1,300
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4631
+#1527
+Transcendence Level
+16
+Class
+Tranquility
+Profession
+Zealot
+XP
+64
+HP
+345
+Strength
+81
+Dexterity
+72
+Constitution
+73
+Intelligence
+93
+Wisdom
+88
+Charisma
+83
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 35
+Days Until Trascend
+16
+Trait Total
+490
+AoV 4631
+1,300
+Bid:
+257.2
+Last:
+0.075
+
+
+Buy Now
+
+View details for AoV 34
+#8779
+Transcendence Level
+1
+Class
+Chaos
+Profession
+Explorer
+XP
+0
+HP
+102
+Strength
+9
+Dexterity
+6
+Constitution
+6
+Intelligence
+8
+Wisdom
+9
+Charisma
+7
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 1
+Days Until Trascend
+0
+Trait Total
+45
+AoV 34
+1,333
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 35
+#8813
+Transcendence Level
+1
+Class
+Chaos
+Profession
+Explorer
+XP
+0
+HP
+100
+Strength
+7
+Dexterity
+7
+Constitution
+7
+Intelligence
+7
+Wisdom
+7
+Charisma
+8
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 2
+Days Until Trascend
+0
+Trait Total
+43
+AoV 35
+1,333
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 38
+#9209
+Transcendence Level
+1
+Class
+Tranquility
+Profession
+Explorer
+XP
+0
+HP
+102
+Strength
+7
+Dexterity
+7
+Constitution
+7
+Intelligence
+7
+Wisdom
+7
+Charisma
+9
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 6
+Days Until Trascend
+0
+Trait Total
+44
+AoV 38
+1,333
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 37
+#8156
+Transcendence Level
+1
+Class
+Tranquility
+Profession
+Explorer
+XP
+0
+HP
+100
+Strength
+5
+Dexterity
+5
+Constitution
+9
+Intelligence
+8
+Wisdom
+8
+Charisma
+8
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 5
+Days Until Trascend
+0
+Trait Total
+43
+AoV 37
+1,333
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 36
+#8509
+Transcendence Level
+1
+Class
+Mischief
+Profession
+Explorer
+XP
+0
+HP
+102
+Strength
+5
+Dexterity
+6
+Constitution
+5
+Intelligence
+10
+Wisdom
+9
+Charisma
+9
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 4
+Days Until Trascend
+0
+Trait Total
+44
+AoV 36
+1,333
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4643
+#1213
+Transcendence Level
+13
+Class
+Tranquility
+Profession
+Zealot
+XP
+43
+HP
+223
+Strength
+68
+Dexterity
+65
+Constitution
+66
+Intelligence
+71
+Wisdom
+67
+Charisma
+62
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 142
+Days Until Trascend
+0
+Trait Total
+399
+AoV 4643
+1,400
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 6897
+#1427
+Transcendence Level
+16
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+209
+Strength
+61
+Dexterity
+61
+Constitution
+62
+Intelligence
+63
+Wisdom
+61
+Charisma
+63
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 121
+Days Until Trascend
+10
+Trait Total
+371
+AoV 6897
+1,400
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 7900
+#6282
+Transcendence Level
+12
+Class
+Tranquility
+Profession
+Zealot
+XP
+0
+HP
+127
+Strength
+45
+Dexterity
+44
+Constitution
+75
+Intelligence
+53
+Wisdom
+67
+Charisma
+41
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 94
+Days Until Trascend
+10
+Trait Total
+325
+AoV 7900
+1,500
+Bid:
+257.2
+Last:
+669
+
+
+Buy Now
+
+View details for AoV 2719
+#3961
+Transcendence Level
+12
+Class
+Tranquility
+Profession
+Scientist
+XP
+83
+HP
+259
+Strength
+82
+Dexterity
+63
+Constitution
+75
+Intelligence
+95
+Wisdom
+74
+Charisma
+107
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 101
+Days Until Trascend
+0
+Trait Total
+496
+AoV 2719
+1,500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2215
+#111
+Transcendence Level
+16
+Class
+Chaos
+Profession
+Zealot
+XP
+130
+HP
+272
+Strength
+69
+Dexterity
+66
+Constitution
+67
+Intelligence
+77
+Wisdom
+68
+Charisma
+70
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 139
+Days Until Trascend
+0
+Trait Total
+417
+AoV 2215
+1,500
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 3755
+#554
+Transcendence Level
+19
+Class
+Mischief
+Profession
+Explorer
+XP
+79
+HP
+298
+Strength
+64
+Dexterity
+65
+Constitution
+57
+Intelligence
+64
+Wisdom
+61
+Charisma
+60
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 77
+Days Until Trascend
+0
+Trait Total
+371
+AoV 3755
+1,550
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5306
+#3826
+Transcendence Level
+21
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+251
+Strength
+75
+Dexterity
+81
+Constitution
+74
+Intelligence
+74
+Wisdom
+75
+Charisma
+75
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 67
+Days Until Trascend
+3
+Trait Total
+454
+AoV 5306
+1,575
+Bid:
+800
+
+
+Buy Now
+
+View details for AoV 5239
+#3779
+Transcendence Level
+21
+Class
+Mischief
+Profession
+Zealot
+XP
+0
+HP
+249
+Strength
+73
+Dexterity
+77
+Constitution
+73
+Intelligence
+74
+Wisdom
+73
+Charisma
+72
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 47
+Days Until Trascend
+3
+Trait Total
+442
+AoV 5239
+1,575
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4084
+#950
+Transcendence Level
+18
+Class
+Mischief
+Profession
+Scientist
+XP
+75
+HP
+331
+Strength
+77
+Dexterity
+74
+Constitution
+75
+Intelligence
+84
+Wisdom
+76
+Charisma
+81
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 134
+Days Until Trascend
+10
+Trait Total
+467
+AoV 4084
+1,600
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 411
+#317
+Transcendence Level
+16
+Class
+Chaos
+Profession
+Zealot
+XP
+130
+HP
+371
+Strength
+88
+Dexterity
+91
+Constitution
+87
+Intelligence
+81
+Wisdom
+84
+Charisma
+81
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 77
+Days Until Trascend
+4
+Trait Total
+512
+AoV 411
+1,600
+Bid:
+257.2
+Last:
+0.085
+
+
+Buy Now
+
+View details for ONE #8583
+#211
+Transcendence Level
+8
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+144
+Strength
+42
+Dexterity
+40
+Constitution
+41
+Intelligence
+41
+Wisdom
+41
+Charisma
+41
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 129
+Days Until Trascend
+0
+Trait Total
+246
+ONE #8583
+1,666
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 3640
+#3532
+Transcendence Level
+15
+Class
+Mischief
+Profession
+Scientist
+XP
+86
+HP
+281
+Strength
+61
+Dexterity
+91
+Constitution
+63
+Intelligence
+94
+Wisdom
+73
+Charisma
+82
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 10
+Days Until Trascend
+0
+Trait Total
+464
+AoV 3640
+1,669
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 2336
+#129
+Transcendence Level
+18
+Class
+Chaos
+Profession
+Zealot
+XP
+90
+HP
+260
+Strength
+84
+Dexterity
+65
+Constitution
+77
+Intelligence
+59
+Wisdom
+61
+Charisma
+64
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 139
+Days Until Trascend
+0
+Trait Total
+410
+AoV 2336
+1,700
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 4085
+#3273
+Transcendence Level
+19
+Class
+Tranquility
+Profession
+Scientist
+XP
+75
+HP
+329
+Strength
+83
+Dexterity
+71
+Constitution
+82
+Intelligence
+73
+Wisdom
+76
+Charisma
+75
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 94
+Days Until Trascend
+6
+Trait Total
+460
+AoV 4085
+1,750
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8440
+#5586
+Transcendence Level
+13
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+138
+Strength
+56
+Dexterity
+55
+Constitution
+58
+Intelligence
+55
+Wisdom
+58
+Charisma
+55
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 85
+Days Until Trascend
+11
+Trait Total
+337
+AoV 8440
+1,999
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 8444
+#4183
+Transcendence Level
+13
+Class
+Chaos
+Profession
+Zealot
+XP
+0
+HP
+133
+Strength
+62
+Dexterity
+60
+Constitution
+60
+Intelligence
+60
+Wisdom
+59
+Charisma
+59
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 81
+Days Until Trascend
+11
+Trait Total
+360
+AoV 8444
+1,999
+Bid:
+257.2
+
+
+Buy Now
+
+View details for Selene Dreamweaver #5078
+#3005
+Transcendence Level
+23
+Class
+Chaos
+Profession
+Zealot
+XP
+13
+HP
+251
+Strength
+78
+Dexterity
+82
+Constitution
+76
+Intelligence
+77
+Wisdom
+78
+Charisma
+78
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 9
+Days Until Trascend
+0
+Trait Total
+469
+Selene Dreamweaver #5078
+2,423
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5088
+#3715
+Transcendence Level
+21
+Class
+Mischief
+Profession
+Zealot
+XP
+13
+HP
+241
+Strength
+67
+Dexterity
+75
+Constitution
+73
+Intelligence
+71
+Wisdom
+82
+Charisma
+75
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 141
+Days Until Trascend
+0
+Trait Total
+443
+AoV 5088
+2,449
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5089
+#538
+Transcendence Level
+21
+Class
+Mischief
+Profession
+Explorer
+XP
+13
+HP
+250
+Strength
+77
+Dexterity
+73
+Constitution
+74
+Intelligence
+81
+Wisdom
+81
+Charisma
+75
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 133
+Days Until Trascend
+0
+Trait Total
+461
+AoV 5089
+2,559
+Bid:
+257.2
+
+
+Buy Now
+
+View details for AoV 5090
+#2763
+Transcendence Level
+21
+Class
+Tranquility
+Profession
+Zealot
+XP
+13
+HP
+242
+Strength
+70
+Dexterity
+69
+Constitution
+75
+Intelligence
+75
+Wisdom
+71
+Charisma
+79
+Name
+Forgotten
+Origin
+Unknown
+Inheritance
+Undiscovered
+Soulbound
+false
+Variant
+Variant 138
+Days Until Trascend
+0
+Trait Total
+439
+AoV 5090
+2,699
+Bid:
+257.2
