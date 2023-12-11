@@ -142,7 +142,7 @@ def save_bigtime_space_data():
     driver = webdriver.Chrome(service=service, options=options)
     driver.get(url)
 
-    time.sleep(5)
+    time.sleep(10)
     # for i in range(3):  # Scroll down 3 times
     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.END)
         # time.sleep(2)  # Wait 2 seconds for the page to load more content
@@ -152,6 +152,31 @@ def save_bigtime_space_data():
 
 
     file_path = "output_bigtime.txt"
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.write(all_content)
+
+
+def save_bigtime_time_data():
+    options = webdriver.ChromeOptions()
+    options.add_experimental_option('excludeSwitches', ['enable-logging'])  # This will suppress most logs
+    options.add_argument("--log-level=3")
+
+    url = 'https://openloot.com/marketplace?gameId=56a149cf-f146-487a-8a1c-58dc9ff3a15c&search=time+warden'
+
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    driver.get(url)
+
+    time.sleep(10)
+    # for i in range(3):  # Scroll down 3 times
+    driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.END)
+        # time.sleep(2)  # Wait 2 seconds for the page to load more content
+    all_content = driver.page_source
+
+    driver.quit()
+
+
+    file_path = "output_bigtime_time.txt"
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(all_content)
 
@@ -191,6 +216,106 @@ def extract_bigtime_space_data():
     return items
 
 
+def extract_bigtime_time_data():
+    file_path = "output_bigtime_time.txt"
+    with open(file_path, 'r', encoding='utf-8') as file:
+        file_content = file.read()
+    soup = BeautifulSoup(file_content, 'html.parser')
+    # script_tag = soup.find_all('div', class_='css-9fxlaj')
+    # if script_tag:
+    #     for item in script_tag:
+    #         print(item)
+    script_tag_name = soup.find_all('h2', class_='chakra-heading css-m8b7z0')
+    script_tag_price = soup.find_all('p', class_='chakra-text css-29nllk')
+    items = []
+    if script_tag_name:
+        # print("Traversing Script...")
+        now = datetime.now()
+        items.append({"time": str(now)})
+        # print("Time:", now)
+        for item in range(len(script_tag_name)):
+            soup_name = BeautifulSoup(str(script_tag_name[item]), 'html.parser')
+            soup_price = BeautifulSoup(str(script_tag_price[item]), 'html.parser')
+            name_tag = soup_name.find('h2')
+            price_tag = soup_price.find('p')
+            # print('Space:', name_tag.text, '\t', 'Price:', price_tag.text)
+            space = {"name": name_tag.text, "price": price_tag.text}
+            items.append(space)
+
+    file_path = "results_bigtime_time.json"
+    # Open the file in append mode ('a') or write mode ('w')
+    with open(file_path, 'a') as file:
+        # Iterate over each item in the list and write it to the file
+        for item in items:
+            file.write(str(item) + ",\n")
+    return items
+
+
+def display_bigtime_space(store, previous):
+    if store != []:
+        previous = store
+    save_bigtime_space_data()
+    store = extract_bigtime_space_data()
+    if store != [] and previous != []:
+        print('SPACES', store[0]['time'])
+        items1 = previous[1:]
+        items2 = store[1:]
+
+        dict1 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items1}
+        dict2 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items2}
+
+        no_diff = False
+        for name, price1 in dict1.items():
+            price2 = dict2.get(name)
+            if price2 and price1 != price2:
+                diff = price2 - price1
+                change = (diff*100)/price1
+                print(f"Price for {name}: ${price2}, \t Difference: ${diff}, \t % Change: {round(change, 2)}")
+                if change < -20:
+                    print("ALARMAAAA!!!")
+                    root = tk.Tk()
+                    root.configure(bg='red')
+                    root.attributes('-fullscreen', True)
+                    root.bind('<Escape>', lambda e: root.destroy())
+                    root.mainloop()
+                no_diff = True
+        if no_diff == False:
+            print("No differences found.")
+    return store
+
+
+def display_bigtime_time(store, previous):
+    if store != []:
+        previous = store
+    save_bigtime_time_data()
+    store = extract_bigtime_time_data()
+    if store != [] and previous != []:
+        print('TIME WARDENS', store[0]['time'])
+        items1 = previous[1:]
+        items2 = store[1:]
+
+        dict1 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items1}
+        dict2 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items2}
+
+        no_diff = False
+        for name, price1 in dict1.items():
+            price2 = dict2.get(name)
+            if price2 and price1 != price2:
+                diff = price2 - price1
+                change = (diff*100)/price1
+                print(f"Price for {name}: ${price2}, \t Difference: ${diff}, \t % Change: {round(change, 2)}")
+                if change < -20:
+                    print("ALARMAAAA!!!")
+                    root = tk.Tk()
+                    root.configure(bg='red')
+                    root.attributes('-fullscreen', True)
+                    root.bind('<Escape>', lambda e: root.destroy())
+                    root.mainloop()
+                no_diff = True
+        if no_diff == False:
+            print("No differences found.")
+    return store
+
 
 if __name__ == '__main__':
     if sys.argv[1] == "realm":
@@ -200,40 +325,71 @@ if __name__ == '__main__':
     elif sys.argv[1] == "bigtime":
         # save_bigtime_space_data()
         # store = extract_bigtime_space_data()
+        if sys.argv[2] == "space":
+            store = []
+            previous = []
+            while True:    
+                if store != []:
+                    previous = store
+                save_bigtime_space_data()
+                store = extract_bigtime_space_data()
+                if store != [] and previous != []:
+                    print('SPACES', store[0]['time'])
+                    items1 = previous[1:]
+                    items2 = store[1:]
 
-        store = []
-        previous = []
-        while True:
-            if store != []:
-                previous = store
-            save_bigtime_space_data()
-            store = extract_bigtime_space_data()
-            if store != [] and previous != []:
-                # print(previous)
-                # print(store)
-                print(store[0]['time'])
-                items1 = previous[1:]
-                items2 = store[1:]
+                    dict1 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items1}
+                    dict2 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items2}
 
-                dict1 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items1}
-                dict2 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items2}
+                    no_diff = False
+                    for name, price1 in dict1.items():
+                        price2 = dict2.get(name)
+                        if price2 and price1 != price2:
+                            diff = price2 - price1
+                            change = (diff*100)/price1
+                            print(f"Price for {name}: ${price2}, \t Difference: ${diff}, \t % Change: {round(change, 2)}")
+                            if change < -20:
+                                print("ALARMAAAA!!!")
+                                root = tk.Tk()
+                                root.configure(bg='red')
+                                root.attributes('-fullscreen', True)
+                                root.bind('<Escape>', lambda e: root.destroy())
+                                root.mainloop()
+                            no_diff = True
+                    if no_diff == False:
+                        print("No differences found.")
+                time.sleep(30)
+        elif sys.argv[2] == "time":
+            store = []
+            previous = []
+            while True: 
+                if store != []:
+                    previous = store
+                save_bigtime_time_data()
+                store = extract_bigtime_time_data()
+                if store != [] and previous != []:
+                    print('TIME WARDENS', store[0]['time'])
+                    items1 = previous[1:]
+                    items2 = store[1:]
 
-                no_diff = False
-                for name, price1 in dict1.items():
-                    price2 = dict2.get(name)
-                    if price2 and price1 != price2:
-                        diff = price2 - price1
-                        change = (diff*100)/price1
-                        print(f"Price for {name}: ${price2}, \t Difference: ${diff}, \t % Change: {round(change, 2)}")
-                        if change < -10:
-                            print("ALARMAAAA!!!")
-                            root = tk.Tk()
-                            root.configure(bg='red')
-                            root.attributes('-fullscreen', True)
-                            root.bind('<Escape>', lambda e: root.destroy())
-                            root.mainloop()
-                        no_diff = True
-                if no_diff == False:
-                    print("No differences found.")
+                    dict1 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items1}
+                    dict2 = {item['name']: round(float(item['price'].replace('$', '').replace(',', '').strip())) for item in items2}
 
-            time.sleep(20)
+                    no_diff = False
+                    for name, price1 in dict1.items():
+                        price2 = dict2.get(name)
+                        if price2 and price1 != price2:
+                            diff = price2 - price1
+                            change = (diff*100)/price1
+                            print(f"Price for {name}: ${price2}, \t Difference: ${diff}, \t % Change: {round(change, 2)}")
+                            if change < -20:
+                                print("ALARMAAAA!!!")
+                                root = tk.Tk()
+                                root.configure(bg='red')
+                                root.attributes('-fullscreen', True)
+                                root.bind('<Escape>', lambda e: root.destroy())
+                                root.mainloop()
+                            no_diff = True
+                    if no_diff == False:
+                        print("No differences found.")
+                time.sleep(30)
